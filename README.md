@@ -26,7 +26,7 @@
 <img src="https://github.com/AdityaKeshan/FFCC/raw/master/img/login_2.jpg" alt="Login Page2">
 <img src="https://github.com/AdityaKeshan/FFCC/raw/master/img/choice.jpg" alt="Theory Choice">
 <img src="https://github.com/AdityaKeshan/FFCC/raw/master/img/subject_selection.jpg" alt="Subjects">
-<img src="https://github.com/CodeChefVIT/FFCC-App/raw/master/img/Teacher.jpg" alt="Teacher">
+<img src="https://github.com/AdityaKeshan/FFCC-App/raw/master/img/Teacher.jpg" alt="Teacher">
 
 ## Instructions to run
 
