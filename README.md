@@ -15,8 +15,8 @@
 
 ## Features
 - Choose Any number of subjects
--Choice for your choice of Theory Slots
--Give Preference for your subjects upto 4 Teachers 
+- Choice for your choice of Theory Slots
+- Give Preference for your subjects upto 4 Teachers 
 
 
 
